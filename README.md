@@ -33,4 +33,4 @@ Based on the analysis of **$1.56M in Total Sales** and **$175K in Total Profit**
 ---
 **Author:** Arijit  
 **Role:** Aspiring Data Analyst  
-[LinkedIn Profile Link Here]
+[https://www.linkedin.com/in/arijit-biswas-758b492bb/]
