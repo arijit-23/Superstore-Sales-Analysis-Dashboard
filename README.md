@@ -4,8 +4,8 @@
 This project features an interactive **Power BI Dashboard** created to analyze the performance of a retail "Superstore." I transformed a raw dataset of over **5,900 transactions** into actionable insights regarding profitability, sales trends, and customer behavior.
 
 ## 🚀 Live Demo / Preview
-[> **Note:** [Add a link to your NovyPro or a high-quality screenshot here]
-](https://app.powerbi.com/groups/me/reports/07f897cd-4fa6-45a0-8cc2-ea379c871d67/065ab2743eedea6d784e?experience=power-bi)
+
+(https://app.powerbi.com/groups/me/reports/07f897cd-4fa6-45a0-8cc2-ea379c871d67/065ab2743eedea6d784e?experience=power-bi)
 ## 🛠️ Tech Stack & Skills
 * **Data Visualization:** Power BI Desktop
 * **Data Cleaning:** Power Query (ETL)
